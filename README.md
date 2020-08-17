@@ -1,5 +1,5 @@
 # automate-CRUD-from-search-CRM
-Deep Learning based solution to extrcat the intent from search queries in CRM and execute the relevant CRUD operations automatically.
+Deep Learning based solution to extract the intent from search queries in CRM and execute the relevant CRUD operations automatically.
 
 CRUD operation Classification/Identification with ML
 ****************************************************
