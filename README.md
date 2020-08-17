@@ -4,13 +4,17 @@ Deep Learning based solution to extrcat the intent from search queries in CRM an
 CRUD operation Classification/Identification with ML
 ****************************************************
 
--> already built a ML model
--> saved it
--> the demo will show the Prediction part with the saved model
+-> already built a ML model.
+
+-> saved it.
+
+-> the demo will show the Prediction part with the saved model.
+
 ->  the prediction script will be RESTified and deployed as a Service where:
         input  = search text
         output = (which)CRUD operation - 1/2/3/4
 
+.
 
 -> as we vary the i/p text - the o/p is different.
 Now let us i/p some other category of buscomp which the Model has not seen during Training.
