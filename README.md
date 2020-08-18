@@ -4,7 +4,7 @@ Deep Learning based solution to extract the intent from search queries in CRM an
 CRUD operation Classification/Identification with ML
 ****************************************************
 
--> already built a ML model.
+-> built a ML model with state-of-the-art NLP algorithms
 
 -> saved it.
 
